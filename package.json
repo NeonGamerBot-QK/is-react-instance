@@ -1,0 +1,21 @@
+{
+  "name": "is-react-instance",
+  "description": "Check if module is loaded in a reactjs instance.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":"https://github.com/saahild.com/is-react-instance",
+  "keywords": [
+    "react",
+    "instance",
+    "is",
+    "check"
+  ],
+  "author": "Neon <neon@saahild.com>",
+  "license": "MIT"
+}
